@@ -1,6 +1,6 @@
 import sys,os
-from beetles.container.spark import *
-from beetles.container.shared_functions import *
+from beet.cont.spark import *
+from beet.cont.shared_functions import *
 #spark = get_spark()
 
 class ProcessBatch:
